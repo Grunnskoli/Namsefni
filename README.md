@@ -1,4 +1,4 @@
-## Verkefni
+# Verkefni
 
 1. [Verkefni](Verkefni1.md)
 1. [Verkefni](Verkefni2.md)
@@ -11,10 +11,11 @@
 # Námsefni og sýnidæmi
 
 1. [Hypertext Transfer Protocol](/1-HTTPS)
-2. [Flask](/2-Flask)
-3. [JSON](/3-Json)
-4. [JSON/API](/4-API)
-5. [Cookies & Sessions](/5-Cookies%26Sessions)
-6. [Firebase Gagnagrunnur](6-Gagnagrunnur)
+1. [Flask](/2-Flask)
+1. [JSON](/3-Json)
+1. [JSON/API](/4-API)
+1. [Cookies & Sessions](/5-Cookies%26Sessions)
+1. [Firebase Gagnagrunnur](6-Gagnagrunnur)
+1. [Lokaverkefni](7-lokaverkefni)
 
 [Verkefnalýsingar](https://github.com/vefthroun/Verkefni)
