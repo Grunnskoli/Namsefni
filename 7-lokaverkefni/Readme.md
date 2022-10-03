@@ -19,7 +19,7 @@ Búið til veftré sem lýsir skipulagi og virkni sem á að vera í vefnum. Þa
     |
     Um XYZ ('/about') innihald kemur úr (xyz) API endpoint
     |
-    |_ innskráning ('/login') - Firebase authentication
+    |_ innskráning ('/login') - _Firebase authentication_
     |   |_ spjallrás ('/blog') lokuð með _session_
     |   |   |_ skrifað í fb gagnagrunn ('/write')
     |   |   |_ breyta grein í fb gagnagrunn ('/update')
@@ -27,12 +27,23 @@ Búið til veftré sem lýsir skipulagi og virkni sem á að vera í vefnum. Þa
     |   |   |_ útskráning (session log out)
     |   |_ innskráning mistókst ('/login_error')
     |
-    |_ nýskráning ('/register')- Firebase authentication
+    |_ nýskráning ('/register')- _Firebase authentication_
         |_ nýskráning tókst ('/register_ok')  
         |   |_ skráðu þig á spjallrásina ('/login')
         |_ nýskráning mistókst ('/register_error')
 
 ```
+
+### Gagnagrunnur
+
+Notendur sem skráðir eru inn með _Firebase Authentication_ geta skrifað í FB gagnagrunninn.
+
+#### Póstar (tafla)
+1. Hver skráning fær sér ID (KEY node)
+1. Fyrirsögn (skráð í input)
+1. Pistill (skráður í textarea)
+1. Höfundur (skráður í input)
+1. Dagsetning (sjálfvirk - _timestamp_)
 
 ### Niðurstaða 
 
