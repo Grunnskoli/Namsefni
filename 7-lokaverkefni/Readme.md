@@ -17,9 +17,9 @@ Búið til veftré sem lýsir skipulagi og virkni sem á að vera í vefnum. Þa
 ```
     index ('/') innihald kemur úr (xyz) gagnagrunni 
     |
-    Um XYZ ('/about') innihald kemur úr (xyz) API endpoint
+    |_ Um XYZ ('/about') innihald kemur úr (xyz) API endpoint
     |
-    |_ innskráning ('/login') - _Firebase authentication_
+    |_ Innskráning ('/login') - _Firebase authentication_
     |   |_ spjallrás ('/blog') lokuð með _session_
     |   |   |_ skrifað í fb gagnagrunn ('/write')
     |   |   |_ breyta grein í fb gagnagrunn ('/update')
@@ -27,7 +27,7 @@ Búið til veftré sem lýsir skipulagi og virkni sem á að vera í vefnum. Þa
     |   |   |_ útskráning (session log out)
     |   |_ innskráning mistókst ('/login_error')
     |
-    |_ nýskráning ('/register')- _Firebase authentication_
+    |_ Nýskráning ('/register')- _Firebase authentication_
         |_ nýskráning tókst ('/register_ok')  
         |   |_ skráðu þig á spjallrásina ('/login')
         |_ nýskráning mistókst ('/register_error')
