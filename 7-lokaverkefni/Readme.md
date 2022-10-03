@@ -26,16 +26,10 @@ Búið til flæðirit sem lýsir skipulagi og virkni sem á að vera í vefnum. 
     |   |_ innskráning mistókst ('/login_error')
     |
     |_ nýskráning ('/register')- Firebase authentication
-    |   |_ spjallrás ('/blog') lokuð með _session_          
-    |   |   |_ sama virkni og lýst er hér að ofan    
-    |   |_ nýskráning mistókst ('/register_error')
-    |
-    |_ innskráning ritstjóra (/admin) Aðgangur er harðkóðaður í appið
-        |_ forsíða ('/fp-admin') lokuð með _session_
-            |_ skrifað í fb gagnagrunn ('/fp-write') birtist á forsíðu
-            |_ breyta grein í fb gagnagrunn ('/fp-update')
-            |_ eyða grein í fb gagnagrunn ('/fp-delete')
-            |_ útskráning (session log out)
+        |_ spjallrás ('/blog') lokuð með _session_          
+        |   |_ sama virkni og lýst er hér að ofan    
+        |_ nýskráning mistókst ('/register_error')
+
 ```
 (?) Ykkar tenging
 
