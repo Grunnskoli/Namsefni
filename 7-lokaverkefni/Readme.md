@@ -8,7 +8,7 @@ Lýsið í stuttu máli um hvað lokaverkefnið er í **Verkefni 7, README.md** 
 
 Hér er dæmi um umfjöllunarefni (_xyz er ykkar val_)
 
-> Lokaverkefnið er bloggsíða sem fjallar um **XYZ**. Á forsíðu eru greinar um **XYZ** sem allir geta lesið. Það er hægt að skrá sig inn á spjallrás þar sem notendur geta spjallað saman um **XYZ**. Ekki er hægt að komast á spjallrásina nema innskráðir notendur.
+> Lokaverkefnið er bloggsíða sem fjallar um **XYZ**. Á forsíðu eru greinar um **XYZ** sem allir geta lesið og eru skráðar af ritstjóra. Á undirsíðu eru upplýsingar sem fengnar eru frá **XYZ API**. Það er hægt að skrá sig inn á spjallrás þar sem notendur geta spjallað saman um **XYZ**. Ekki er hægt að komast á spjallrásina nema innskráðir notendur.
 
 ### Flæðirit
 
