@@ -36,7 +36,7 @@ Búið til veftré sem lýsir skipulagi og virkni sem á að vera í vefnum. Þa
 
 ### Gagnagrunnur
 
-Notendur sem skráðir eru inn með _Firebase Authentication_ geta skrifað í FB gagnagrunninn.
+Notendur sem skráðir eru inn með _Firebase Authentication_ geta skrifað í gagnagrunnstöfluna _Póstar_. Notendur eiga að geta skrifað pistla og leiðrétt pistlana sína. Þeir birtast í spjallrásinni. Notendur eiga að geta eytt sínum pistlum.
 
 #### Póstar (tafla)
 1. Hver skráning fær sér ID (KEY node)
