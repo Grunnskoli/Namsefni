@@ -7,4 +7,4 @@
 5. [Cookies & Sessions](/5-Cookies%26Sessions)
 6. [Firebase Gagnagrunnur](6-Gagnagrunnur)
 
-[Verkefnalýsingar](https://github.com/vefthroun/Verkefni)
+[Verkefnalýsingar](https://github.com/vefumsjon/Verkefni)
