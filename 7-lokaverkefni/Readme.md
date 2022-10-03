@@ -10,9 +10,9 @@ Hér er dæmi um umfjöllunarefni (_xyz er ykkar val_)
 
 > Lokaverkefnið er bloggsíða sem fjallar um **XYZ**. Á forsíðu eru greinar um **XYZ** sem allir geta lesið og eru skráðar af ritstjóra. Á undirsíðu eru upplýsingar sem fengnar eru frá **XYZ API**. Það er hægt að skrá sig inn á spjallrás þar sem notendur geta spjallað saman um **XYZ**. Ekki er hægt að komast á spjallrásina nema innskráðir notendur.
 
-### Flæðirit
+### Veftré (_Site map_)
 
-Búið til flæðirit sem lýsir skipulagi og virkni sem á að vera í vefnum. Flæðiritið getur verið í textasniði og skráð eins og hér er sýnt.
+Búið til veftré sem lýsir skipulagi og virkni sem á að vera í vefnum. Það getur verið í textasniði og skráð eins og hér er sýnt.
 
 ```
     index ('/') innihald kemur úr (xyz) gagnagrunni 
