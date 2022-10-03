@@ -15,7 +15,9 @@ Hér er dæmi um umfjöllunarefni
 Búið til flæðirit sem lýsir skipulagi og virkni sem á að vera í vefnum. Flæðiritið getur verið í textasniði og skráð eins og hér er sýnt.
 
 ```
-    index ('/') innihald kemur úr (?) gagnagrunni og / eða (?) API endpoint
+    index ('/') innihald kemur úr (xyz) gagnagrunni 
+    |
+    Um XYZ ('/about') innihald kemur úr (xyz) API endpoint
     |
     |_ innskráning ('/login') - Firebase authentication
     |   |_ spjallrás ('/blog') lokuð með _session_
@@ -31,7 +33,6 @@ Búið til flæðirit sem lýsir skipulagi og virkni sem á að vera í vefnum. 
         |_ nýskráning mistókst ('/register_error')
 
 ```
-(?) Ykkar tenging
 
 ### Niðurstaða 
 
