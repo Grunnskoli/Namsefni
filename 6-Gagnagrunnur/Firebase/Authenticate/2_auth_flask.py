@@ -7,7 +7,7 @@ app = Flask(__name__)
 app.secret_key = os.urandom(8)
 
 # tengin við firebase realtime database á firebase.google.com 
-# hér kemur tengingin þín við Firebase gagnagrunninn ( realtime database )
+# hér kemur þín tenging við Firebase gagnagrunninn ( realtime database )
 config = {
     "apiKey": "NOTA YKKAR KEY",
     "authDomain": "verkefni6-4265f.firebaseapp.com",
