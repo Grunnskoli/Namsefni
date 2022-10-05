@@ -13,6 +13,7 @@
 ---
 
 - [TV MAZE API](https://www.tvmaze.com/api)
+- [free for dev - apis](https://github.com/ripienaar/free-for-dev#apis-data-and-ml)
 
 ---
 
