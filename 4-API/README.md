@@ -13,6 +13,7 @@
 ---
 
 - [TV MAZE API](https://www.tvmaze.com/api)
+- [Apipheny](https://apipheny.io/free-api/)
 - [List of free apis](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
 - [free for dev - apis](https://github.com/ripienaar/free-for-dev#apis-data-and-ml)
 
