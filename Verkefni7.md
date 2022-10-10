@@ -28,8 +28,10 @@ _Eftirfarandi þætti þarf að uppfylla:_
 - Gögn birt á forsíðu ( gagnagrunnur eða API ) 2%
 - Skrá gögn í gagnagrunn ( t.d. nýr admin ) 4%
 - Innskráning notanda á lokaðan hluta vefsíðu 4%
+- Skráður notandi getur breytt skrá ( update ) 2%
+- Skráður notandi getur eytt skrá ( delete ) 2%
 - Útskráning 2%
-- Notkun á Session ( login / cart ) 4%
+
 
 ### Skil
 
